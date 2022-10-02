@@ -2,3 +2,7 @@
 
 ## CONTENT BASED IMAGE RETRIVAL
 
+**NAME :**
+  1. Yudistira Dwi N (201910370311265)
+  2. Aulia Lintang A (201910370311267)
+  
