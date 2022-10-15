@@ -1,6 +1,6 @@
 # CONTENT BASED IMAGE RETRIVAL
 
-## About Content
+## DETAIL PROJECT
 
 ***NAME :***
   1. Yudistira Dwi N (201910370311265)
